@@ -67,7 +67,7 @@ Antes de ejecutar el proyecto se debe contar con:
 - Git
 - PowerShell en Windows
 
-Para comprobar las instalaciones:
+## Para comprobar las instalaciones:
 
 ```powershell
 py --version
