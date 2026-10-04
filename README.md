@@ -346,15 +346,3 @@ Base de datos SQLite
 Esta separación permite mantener organizada la interfaz de usuario, la lógica del servidor y el acceso a los datos.
 
 ---
-
-## Notas
-
-Los archivos `.env`, bases de datos locales, archivos temporales y cachés de Python no deben formar parte del repositorio.
-
-El archivo `.env.example` se utiliza como referencia para configurar las variables de entorno necesarias.
-
----
-
-## Proyecto académico
-
-Proyecto desarrollado para el curso de **Desarrollo Web (036)** como práctica de integración entre un frontend desarrollado con Vue 3 y un backend desarrollado con Flask mediante una API REST.
